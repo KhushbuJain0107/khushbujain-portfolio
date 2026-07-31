@@ -1,6 +1,6 @@
 import ToolsHeader from "./ToolsHeader";
 import ToolCard from "./ToolCard";
-import tools from "./toolsData";
+import tools from "./ToolsData";
 
 const Tools = () => {
   return (
