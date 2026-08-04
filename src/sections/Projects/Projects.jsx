@@ -1,6 +1,6 @@
 import ProjectsHeader from "./ProjectsHeader";
 import ProjectCard from "./ProjectCard";
-import projects from "./projectData";
+import projects from "./ProjectData";
 
 const Projects = () => {
   return (
